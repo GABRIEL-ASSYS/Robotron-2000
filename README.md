@@ -2,6 +2,8 @@
 
   A Apeperia é um projeto criado durante um curso sobre JavaScript, mais especificamento sobre DOM na plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando a linguagem JavaScript, sendo uma página WEB onde você monta o seu robô alterando os pontos que irão interferir na força, poder, energia e velocidade de seu robô.
 
+![print da página](https://github.com/GABRIEL-ASSYS/Robotron-2000/blob/main/img/print.png)
+
 ## 🚀 Começando
 
 Essas intruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
