@@ -26,6 +26,7 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 
 * [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - Para o marcação da página
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Para a estilização da página
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Para dinamização da página
 
 ## ✒️ Autores
 
